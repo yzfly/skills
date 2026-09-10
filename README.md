@@ -20,6 +20,7 @@
 | Skill | 说明 | 安装 | 许可 |
 |---|---|---|---|
 | [**CTO**](skills/cto/) `cto` | 你不缺 idea，你缺一个把 idea 想清楚的人。一场对话把想法变成可执行的软件设计：brief + arch + specs 直接喂给 coding agent | `npx skills add yzfly/skills@cto -g -y` | CC BY-NC 4.0 |
+| [**像素精灵**](skills/pixel-sprite/) `pixel-sprite` | 把参考图里的主体一比一转成 32×32 复古游戏像素图标：不重新设计、不换配色，硬边像素、6–8 色、纯白背景，适合 App 图标 / 吉祥物 / 商品图 | `npx skills add yzfly/skills@pixel-sprite -g -y` | MIT |
 | [**王者大师**](skills/wzry-build-advisor/) `wzry-build-advisor` | 王者荣耀出装参谋：报上你的英雄、对面难搞的英雄和当前装备，30 秒内给出下一件装备与成装路线 | `npx skills add yzfly/skills@wzry-build-advisor -g -y` | MIT |
 
 > 每个 skill 目录内有各自的完整介绍（点上方名字进入）。
