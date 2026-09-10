@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#FAFAF7"/>
+  <g font-family="Inter, Helvetica Neue, Helvetica, Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+    <text x="80" y="110" font-size="18" letter-spacing="6" fill="#8A8A86">BRAND NARRATIVE · 品牌叙事</text>
+    <text x="80" y="190" font-size="54" font-weight="700" fill="#1A1A1A">它围绕什么中心组织自己？</text>
+    <text x="80" y="236" font-size="20" fill="#555">叙事中心 → 叙事命题 → 叙事逻辑</text>
+  </g>
+  <g stroke="#1F3A5F" stroke-width="2" fill="none">
+    <circle cx="600" cy="470" r="150"/>
+    <circle cx="600" cy="470" r="90"/>
+  </g>
+  <circle cx="600" cy="470" r="34" fill="#1F3A5F"/>
+  <g font-family="Inter, Helvetica, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="16" fill="#1A1A1A" text-anchor="middle">
+    <text x="600" y="476" fill="#FAFAF7" font-weight="700">中心</text>
+    <text x="600" y="368">命题</text>
+    <text x="600" y="308">逻辑</text>
+  </g>
+  <g font-family="Inter, Helvetica, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="17" fill="#1F3A5F" font-weight="600">
+    <text x="340" y="330" text-anchor="end">产品 · 创造了什么</text>
+    <text x="300" y="470" text-anchor="end">能力 · 为什么能持续创造</text>
+    <text x="340" y="610" text-anchor="end">身份 · 代表怎样的人</text>
+    <text x="860" y="330">生活方式 · 向往怎样的生活</text>
+    <text x="900" y="470">社群 · 谁一起创造</text>
+    <text x="860" y="610">文化 · 在文化中意味着什么</text>
+  </g>
+  <g stroke="#C9C2B4" stroke-width="1.5" stroke-dasharray="4 6" fill="none">
+    <line x1="350" y1="322" x2="480" y2="392"/><line x1="310" y1="462" x2="446" y2="468"/><line x1="350" y1="602" x2="480" y2="548"/>
+    <line x1="850" y1="322" x2="720" y2="392"/><line x1="890" y1="462" x2="754" y2="468"/><line x1="850" y1="602" x2="720" y2="548"/>
+  </g>
+</svg>
