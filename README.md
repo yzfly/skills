@@ -25,6 +25,7 @@
 | [**几何情绪窗口海报**](skills/photo-window-poster/) `photo-window-poster` | 照片 → 3:4 高级设计海报：上半原图轻调色，下半「真实物象穿越几何情绪窗口」——一个低饱和窄长色块、主体越界破框、大留白、自动提炼标题文案（提示词作者：小小东） | `npx skills add yzfly/skills@photo-window-poster -g -y` | MIT |
 | [**公众号排版**](skills/mp-layout/) `mp-layout` | 越简单越高级：正文 16px / 行距 1.75 / 两端 16px / 一种品牌色 / 3–5 张图，把文章排成可直接粘贴进公众号编辑器的内联 HTML，附零依赖转换脚本与排版体检 | `npx skills add yzfly/skills@mp-layout -g -y` | MIT |
 | [**像素精灵**](skills/pixel-sprite/) `pixel-sprite` | 把参考图里的主体一比一转成 32×32 复古游戏像素图标：不重新设计、不换配色，硬边像素、6–8 色、纯白背景，适合 App 图标 / 吉祥物 / 商品图 | `npx skills add yzfly/skills@pixel-sprite -g -y` | MIT |
+| [**去 AI 味界面文案**](skills/anti-ai-copy/) `anti-ai-copy` | 界面文案不是说明书：先删再写、按类型套写法（按钮 / Toast / 弹窗 / 空状态 / 报错…）、说用户行业的话，附中英文 AI 味反模式清单与建用词表的方法，规则取自 Semi、Ant、Arco、Material、Apple 等官方规范 | `npx skills add yzfly/skills@anti-ai-copy -g -y` | MIT |
 | [**王者大师**](skills/wzry-build-advisor/) `wzry-build-advisor` | 王者荣耀出装参谋：报上你的英雄、对面难搞的英雄和当前装备，30 秒内给出下一件装备与成装路线 | `npx skills add yzfly/skills@wzry-build-advisor -g -y` | MIT |
 
 > 每个 skill 目录内有各自的完整介绍（点上方名字进入）。
@@ -39,6 +40,11 @@
     <td align="center"><a href="skills/photo-window-poster/"><img src="skills/photo-window-poster/assets/cover.png" width="60%" alt="几何情绪窗口海报"></a><br><sub><b>几何情绪窗口海报</b> · 上半原图下半几何窗口</sub></td>
     <td align="center"><a href="skills/pixel-sprite/"><img src="skills/pixel-sprite/assets/cover.png" width="60%" alt="像素精灵"></a><br><sub><b>像素精灵</b> · 主体一比一转 32×32 像素</sub></td>
     <td align="center"><a href="skills/mp-layout/"><img src="skills/mp-layout/assets/cover.png" width="45%" alt="公众号排版"></a><br><sub><b>公众号排版</b> · 16px · 1.75 · 一种品牌色</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="skills/anti-ai-copy/"><img src="skills/anti-ai-copy/assets/cover.png" width="100%" alt="去 AI 味界面文案"></a><br><sub><b>去 AI 味界面文案</b> · 先删再写，说用户行业的话</sub></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
