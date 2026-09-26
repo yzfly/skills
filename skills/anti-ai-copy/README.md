@@ -7,7 +7,7 @@
 **界面文案不是说明书。先删再写，按类型写，说用户行业的话。**
 
 [![Latest Release](https://img.shields.io/github/v/release/yzfly/skills?color=brightgreen)](https://github.com/yzfly/skills/releases/latest)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-compatible-orange)](https://agentskills.io)
 
 **按钮 · 标题 · 表单 · 空状态 · Toast · 确认弹窗 · 报错 · tooltip · 状态词 · 后端提示**
@@ -106,7 +106,7 @@ cp -r skills/skills/anti-ai-copy ~/.claude/skills/
 anti-ai-copy/
   SKILL.md                        # 五条原则、类型速查、AI 味速查、工作流、禁区、交付格式
   README.md
-  LICENSE                         # MIT（含 Semi Design MIT 引文声明）
+  LICENSE                         # CC BY-NC 4.0（含 Semi Design MIT 引文声明）
   assets/cover.svg | cover.png
   references/patterns.md          # 15 类文案的写法、对照、边界 + 交付自检清单
   references/ai-tells.md          # 中英文 AI 味反模式清单（带保留条件与出处）
@@ -117,4 +117,4 @@ anti-ai-copy/
 
 ## 许可
 
-MIT。引用的 Semi Design 规范原文为 MIT（Copyright (c) 2021 DouyinFE）；其他规范与书籍仅摘要点并链接原文，版权归原作者。
+[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)，商用请联系作者。引用的 Semi Design 规范原文仍按 MIT（Copyright (c) 2021 DouyinFE）；其他规范与书籍仅摘要点并链接原文，版权归原作者。
